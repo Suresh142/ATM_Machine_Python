@@ -22,3 +22,6 @@ Since it is an ATM Machine, Initially i declared some of the accounts and initia
 4. Statement
 5. Quit
 
+# FEEDBACK
+Any suggestion and feedback is welcome. You can message me on Instagram
+- https://www.instagram.com/itz_me_sooriii?r=nametag
